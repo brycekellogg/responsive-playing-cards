@@ -3,7 +3,7 @@
     xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 314" width="225px" height="314px"
+    viewBox="-1 -1 225 314" width="225px" height="314px"
     fill="#d40000">
     <defs>
 
@@ -17,7 +17,7 @@
             h11.631v-4.295h3.427v7.908L0,32.676z"/>
     </defs>
 
-    <rect width="225" height="314" fill="#fefefe"/>
+    <rect stroke="#000000" stroke-width="2" rx="10" ry="10" width="223" height="312" fill="#fefefe"/>
 
 
     <!-- Big Card -->
